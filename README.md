@@ -21,18 +21,18 @@
 
 ## 01 — about
 
-Right now I lead the team behind a customer chat product: rebuilt so it can take on
-more conversations, keep working as it grows, and cost less for each one. Before
-that, as Software Technical Lead at **Agentco**, I drove AI integration into
-corporate projects on Python and FastAPI.
+I'm an AI software engineer with 11+ years of backend work behind me — nine of
+them freelance, the rest in full-time and lead roles across Iran and remote
+teams.
 
-Across nine years of freelance work and full-time roles in Iran and on remote
-teams, the through-line is the same — ship robust backends, work cleanly across
-functions, deliver on time.
+Most of what I build is the unglamorous half of AI: the systems that keep working
+when the model doesn't. Python and FastAPI are where I'm fastest, Django when the
+job calls for it, and event-driven designs with message queues are how I keep
+things moving under load.
 
-I care about **simple architectures that survive contact with real traffic**,
-observability that doesn't lie, and prompts that fail gracefully when the model
-has a bad day.
+I lead teams, and I still write code. I care about **simple architectures that
+survive contact with real traffic**, observability that doesn't lie, and prompts
+that fail gracefully when the model has a bad day.
 
 ## 02 — shipped
 
@@ -65,21 +65,7 @@ Chosen for boring reliability over novelty.
 **Backend & infra**
 `FastAPI` · `Django` · `PostgreSQL` · `Redis` · `RabbitMQ` · `event-driven design` · `Docker` · `CI/CD`
 
-## 04 — in the open
-
-What's public is mostly the scaffolding I reach for. Proof of how I build, not
-just what I ship.
-
-| Repo | Stack | What |
-|------|-------|------|
-| **[LLMService](https://github.com/ParsaHarooni/LLMService)** | Python · FastAPI | Code analysis across OpenAI, Deepseek and local models — typed, linted, tested |
-| **[opportunity-extraction](https://github.com/ParsaHarooni/opportunity-extraction)** | Python · LangGraph | Agentic pipeline mining pain points out of meeting notes, with `arq` background jobs |
-| **[taakht-backend](https://github.com/ParsaHarooni/taakht-backend)** | FastAPI | Item-to-item trading platform backend |
-| **[get-back-to-work](https://github.com/ParsaHarooni/get-back-to-work)** | TypeScript | VS Code extension that notices when you go idle |
-| **[URL-Shortener](https://github.com/ParsaHarooni/URL-Shortener)** | NestJS · Prisma | URL shortener, built for correctness first |
-| **[LinkShortener](https://github.com/ParsaHarooni/LinkShortener)** | Python | Link shortener with advanced analytics |
-
-## 05 — contact
+## 04 — contact
 
 Have a backend or LLM problem worth solving?
 
