@@ -44,8 +44,6 @@ products are not.
 | `●` | **[Monami](https://monamishoes.com)** | B2B sales, CRM and inventory | Led project + team |
 | `●` | **[SMILINNO](https://smilinno.com)** | Enterprise AI: call centers, assistants, chatbots | Led delivery across products |
 
-<sub>Includes a Social Security call center, the Presidency's smart companion, and Ofogh Kourosh's chatbot.</sub>
-
 ## 03 — stack
 
 Chosen for boring reliability over novelty.
