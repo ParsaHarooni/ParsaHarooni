@@ -1,20 +1,14 @@
-```
-╭──────────────────────────────────────────────╮
-│ parsa.harooni / ai · backend · llm           │
-│                                              │
-│ stack   Python · FastAPI · RabbitMQ          │
-│ focus   LLM systems · event-driven           │
-│ since   2015 -> now                          │
-╰──────────────────────────────────────────────╯
-```
-
-**● open to clients** · Tehran, IR · remote
+<p align="center">
+  <a href="https://harooni.xyz"><img src="assets/hero.svg" width="100%" alt="parsa.harooni — ai · backend · llm; status open to clients; stack Python, FastAPI, RabbitMQ"></a>
+</p>
 
 ### Backend engineer putting language models into production where they actually have to work.
 
-[![harooni.xyz](https://img.shields.io/badge/harooni.xyz-7adf9c?style=flat-square&labelColor=0a0a0a)](https://harooni.xyz)
-[![Telegram](https://img.shields.io/badge/Telegram-%40prsishere-7adf9c?style=flat-square&labelColor=0a0a0a)](https://t.me/prsishere)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-parsaharooni-7adf9c?style=flat-square&labelColor=0a0a0a)](https://linkedin.com/in/parsaharooni)
+**Tehran, IR** · remote · open to clients
+
+[![harooni.xyz](https://img.shields.io/badge/harooni.xyz-7adf9c?style=flat-square&labelColor=0a0a0a&logo=safari&logoColor=0a0a0a)](https://harooni.xyz)
+[![Telegram](https://img.shields.io/badge/Telegram-%40prsishere-7adf9c?style=flat-square&labelColor=0a0a0a&logo=telegram&logoColor=0a0a0a)](https://t.me/prsishere)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-parsaharooni-7adf9c?style=flat-square&labelColor=0a0a0a&logo=linkedin&logoColor=0a0a0a)](https://linkedin.com/in/parsaharooni)
 [![followers](https://img.shields.io/github/followers/ParsaHarooni?style=flat-square&label=followers&labelColor=0a0a0a&color=7adf9c)](https://github.com/ParsaHarooni?tab=followers)
 
 ---

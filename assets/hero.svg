@@ -1,0 +1,84 @@
+<svg viewBox="0 0 880 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="parsa.harooni — AI software engineer, backend and LLM systems, open to clients">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --bd: #d9d9d9;
+      --bar: #f4f4f4;
+      --tx: #101010;
+      --mu: #6b6b6b;
+      --ac: #0f7a4f;
+      --dot: #dcdcdc;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #0a0a0a;
+        --bd: #2a2a2a;
+        --bar: #111111;
+        --tx: #ededed;
+        --mu: #a8a8a8;
+        --ac: #7adf9c;
+        --dot: #2f2f2f;
+      }
+    }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .rise { opacity: 0; animation: rise .7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes rise {
+      from { opacity: 0; transform: translateY(9px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    .type {
+      clip-path: inset(0 100% 0 0);
+      animation: type .85s steps(18) .3s forwards;
+    }
+    @keyframes type { to { clip-path: inset(0 0 0 0); } }
+    .cur { opacity: 0; animation: blink 1.05s steps(1) 1.9s infinite; }
+    @keyframes blink { 0%, 49% { opacity: 1; } 50%, 100% { opacity: 0; } }
+    .fade { opacity: 0; animation: fade .5s ease forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    .a1 { animation-delay: .15s; }
+    .a2 { animation-delay: 1.00s; }
+    .a3 { animation-delay: 1.15s; }
+    .a4 { animation-delay: 1.30s; }
+    .a5 { animation-delay: 1.45s; }
+    .a6 { animation-delay: 1.60s; }
+    .a7 { animation-delay: 1.75s; }
+    @media (prefers-reduced-motion: reduce) {
+      .rise, .type, .cur, .fade { animation: none; opacity: 1; clip-path: none; }
+    }
+  </style>
+
+  <rect x="1" y="1" width="878" height="298" rx="12" fill="var(--bg)" stroke="var(--bd)" stroke-width="1.5"/>
+  <path d="M1 44 H879" stroke="var(--bd)" stroke-width="1.5"/>
+  <path d="M1 44 V13 A12 12 0 0 1 13 1 H867 A12 12 0 0 1 879 13 V44 Z" fill="var(--bar)"/>
+
+  <g class="mono fade a1">
+    <circle cx="26" cy="23" r="5.5" fill="var(--dot)"/>
+    <circle cx="46" cy="23" r="5.5" fill="var(--dot)"/>
+    <circle cx="66" cy="23" r="5.5" fill="var(--dot)"/>
+    <text x="92" y="27" font-size="12" fill="var(--mu)">harooni.xyz — zsh</text>
+  </g>
+
+  <g class="mono">
+    <text class="type" x="32" y="88" font-size="15" fill="var(--tx)">
+      <tspan fill="var(--ac)">$</tspan> whoami
+    </text>
+
+    <text class="rise a2" x="32" y="132" font-size="23" font-weight="600" fill="var(--tx)">
+      parsa.harooni <tspan font-size="15" font-weight="400" fill="var(--mu)">/ ai · backend · llm</tspan>
+    </text>
+
+    <text class="rise a3" x="32" y="170" font-size="13" fill="var(--mu)">status</text>
+    <text class="rise a3" x="120" y="170" font-size="14" fill="var(--tx)">
+      <tspan fill="var(--ac)">●</tspan> open to clients
+    </text>
+
+    <text class="rise a4" x="32" y="198" font-size="13" fill="var(--mu)">stack</text>
+    <text class="rise a4" x="120" y="198" font-size="14" fill="var(--tx)">Python · FastAPI · RabbitMQ</text>
+
+    <text class="rise a5" x="32" y="226" font-size="13" fill="var(--mu)">since</text>
+    <text class="rise a5" x="120" y="226" font-size="14" fill="var(--tx)">2015 → now</text>
+
+    <text class="rise a7" x="32" y="264" font-size="15" fill="var(--ac)">$</text>
+    <rect class="cur" x="47" y="251" width="8" height="16" fill="var(--ac)"/>
+  </g>
+</svg>
